@@ -20,11 +20,7 @@ A full-featured online clothing store (shirts, pants, shoes and more) built with
 ### Home Page
 ![Home](screenshots/home.png)
 
-### Shop
-![Shop](screenshots/shop.png)
 
-### Cart
-![Cart](screenshots/cart.png)
 
 ## 🛠 Tech Stack
 
